@@ -1,2 +1,2 @@
 # SkillFactory
-Теория по курсу SkillFactory "Открытый курс по python" и сделанная домашка 
+Сделанная домашка и теория по курсу SkillFactory "Открытый курс по python" 
